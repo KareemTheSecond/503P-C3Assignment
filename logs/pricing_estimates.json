@@ -1,0 +1,1 @@
+{"tool": "calculate_candy_price", "result": {"mode": "transform", "home_value": 10000.0, "customer_pays": 5100.0, "note": "Transform and return the same home as a candy masterpiece (51% of value)."}}
